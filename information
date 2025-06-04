@@ -1,0 +1,92 @@
+₹100,500,1000
+
+address
+01-march-2024
+8:00-10:00
+Vadodara
+
+01-july-2024
+8:00 - 10:00
+Mumbai
+
+<h2>Our Head Office</h2>
+                            <p><i class="fa fa-map-marker-alt"></i>123 Area, Rajkot ,Gujarat</p>
+                            <p><i class="fa fa-phone-alt"></i>+91 9173160534</p>
+                            <p><i class="fa fa-envelope"></i>donation@gmail.com</p>
+
+
+<div class="row">
+                <div class="col-md-6">
+                    <p>&copy; <a href="#">Donation System</a>, All Right Reserved.</p>
+                </div>
+                <div class="col-md-6">
+                    <p>Designed By <a href="">Dhruvit Vegad</a></p>
+                </div>
+
+
+ <div class="tab-content">
+                                <div id="tab-content-1" class="container tab-pane active">
+
+                                    Our charity collecting firm is dedicated to making a positive impact on society by organizing and managing fundraising campaigns. With a commitment to transparency and efficiency, we facilitate the collection of donations to support various charitable causes. Together with our donors, we strive to create meaningful change and contribute to a better, more compassionate world.Our charity collecting firm prioritizes integrity and collaboration, ensuring every donated dollar reaches its intended destination. Join us in fostering hope and building brighter futures for those in need.</div>
+                                <div id="tab-content-2" class="container tab-pane fade">
+                                    At our core, our mission is to inspire kindness and transform lives. We believe in the power of collective compassion, uniting people to make a profound impact through charitable giving. Striving for transparency and efficiency, we aim to create a ripple effect of positive change, fostering a world where everyone has the opportunity to thrive, and no act of generosity goes unnoticed or unappreciated.</div>
+                                <div id="tab-content-3" class="container tab-pane fade">
+
+                                    Our vision is a world where philanthropy flourishes, breaking down barriers and uplifting communities. We aspire to be a driving force behind global compassion, fostering a culture where generosity becomes second nature. Envisioning a society united by empathy, we seek to empower individuals to contribute meaningfully, creating a ripple effect of positive change that transcends borders. Together, we are dedicated to building a brighter, more equitable future for generations to come.</div>
+                            </div>
+
+/**************************************************
+
+<img src="./img/modi.jpg" alt="Image">
+                        <div class="testimonial-name">
+                            <h3>Narendra Modi
+                                </h3>
+                            <p>Prime Minister of India</p>
+                        </div>
+                    </div>
+                    <div class="testimonial-text">
+                        <p>
+                            Sabka Saath, Sabka Vikas, Sabka Vishwas
+                        </p>
+                    </div>
+                </div>
+                <div class="testimonial-item">
+                    <div class="testimonial-profile">
+                        <img src="./img/ambani.webp" alt="Image">
+                        <div class="testimonial-name">
+                            <h3>Mukesh Dhirubhai Ambani</h3>
+                            <p> Indian billionaire businessman</p>
+                        </div>
+                    </div>
+                    <div class="testimonial-text">
+                        <p>
+                            generosity, encourages donations for a brighter, more compassionate society. Join us in giving.
+                        </p>
+                    </div>
+                </div>
+                <div class="testimonial-item">
+                    <div class="testimonial-profile">
+                        <img src="img/bhupendrabhai.jpg" alt="Image">
+                        <div class="testimonial-name">
+                            <h3>Bhupendra Rajnikant Patel</h3>
+                            <p>Chief Minister of Gujarat </p>
+                        </div>
+                    </div>
+                    <div class="testimonial-text">
+                        <p>
+                            My support for this charity is unwavering. Let's join hands to make a meaningful impact together.
+                        </p>
+                    </div>
+                </div>
+                <div class="testimonial-item">
+                    <div class="testimonial-profile">
+                        <img src="./img/dhoni.jpg" alt="Image">
+                        <div class="testimonial-name">
+                            <h3>Mahendra Singh Dhon</h3>
+                            <p>Indian professional cricketer</p>
+                        </div>
+                    </div>
+                    <div class="testimonial-text">
+                        <p>
+                            Charity connects hearts.I believes in the power of giving, fostering change, and building hope together.
+                        </p>
